@@ -1,1 +1,1 @@
-freecodecamp.rocks :arrow_right: freecodecamp.dev
+> ### Subdomain redirects for static pages
