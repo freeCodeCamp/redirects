@@ -1,1 +1,1 @@
-> ### Subdomain redirects for static pages
+> redirects for pages previously on a subdomain
